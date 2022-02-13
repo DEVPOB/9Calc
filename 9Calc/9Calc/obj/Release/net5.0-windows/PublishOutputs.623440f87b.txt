@@ -1,0 +1,5 @@
+D:\Non-sense\9Cal\Application\9Calc\9Calc\9Calc\bin\Release\net5.0-windows\publish\9Calc.exe
+D:\Non-sense\9Cal\Application\9Calc\9Calc\9Calc\bin\Release\net5.0-windows\publish\9Calc.dll
+D:\Non-sense\9Cal\Application\9Calc\9Calc\9Calc\bin\Release\net5.0-windows\publish\9Calc.deps.json
+D:\Non-sense\9Cal\Application\9Calc\9Calc\9Calc\bin\Release\net5.0-windows\publish\9Calc.runtimeconfig.json
+D:\Non-sense\9Cal\Application\9Calc\9Calc\9Calc\bin\Release\net5.0-windows\publish\9Calc.pdb
