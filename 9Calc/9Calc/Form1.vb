@@ -101,7 +101,7 @@ Public Class Form1
             TextBox1.Text = num1 / num2
         End If
         If TextBox2.Text = "Github" Then
-            TextBox2.Text = ""
+            TextBox2.Text = "https://github.com/DEVPOB/9Calc"
         End If
     End Sub
 
